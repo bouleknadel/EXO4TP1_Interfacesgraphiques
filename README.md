@@ -61,10 +61,7 @@ The  Registration App is a mobile application designed to allow users to registe
  watch a demonstration video:
 
 
-
-
-https://github.com/user-attachments/assets/e0d57c62-cc68-4379-9508-1cb097752fca
-
+https://github.com/user-attachments/assets/82780c52-2c07-49a9-88c0-88ffe6e5538a
 
 
 ## Contributors
